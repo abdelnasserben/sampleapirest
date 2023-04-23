@@ -1,4 +1,4 @@
-# sampleapirest
+# Sample API REST
 
 Il s'agit d'une simple API REST pour la gestion des employés d'une société X.
 Les employées sont stockés dans une base de données H2. 
