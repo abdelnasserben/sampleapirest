@@ -1,7 +1,7 @@
 # sampleapirest
 
 Il s'agit d'une simple API REST pour la gestion des employés d'une société X.
-Les employées sont stoquées dans une base de données H2. 
+Les employées sont stockés dans une base de données H2. 
 L'API implémente les opérations CRUD pour l'exploitation de cette base de données.
 
 
